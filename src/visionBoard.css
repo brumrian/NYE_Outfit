@@ -1,0 +1,82 @@
+body{
+
+    alignment: center;
+    text-align: center;
+    font-family: Courier;
+
+}
+div{
+
+    /*text-align: center;*/
+    /*display: grid;*/
+    /*grid-template-columns: auto auto;*/
+
+}
+
+h1{
+    font-size: 5vw;
+}
+h3{
+    font-size: 3vw;
+}
+
+img{
+    border-radius: 20px;
+}
+
+.earring{
+
+    border: 40px solid #fad4f2;
+
+}
+
+#earringDiv{
+    border: 40px solid #fad4f2;
+
+    alignment: center;
+    border-radius: 20px;
+    background-color: white;
+}
+.necklace{
+    border: 40px groove #67918e;
+
+}
+
+#necklaceDiv{
+    border-radius: 20px;
+    border: 40px groove #67918e;
+
+    background-color: white;
+}
+
+#fireworks{
+    border: 40px solid #fcba03;
+    border-radius: 50%;
+
+}
+#dress{
+    border: 40px dotted #235e11;
+
+}
+
+#dressDiv{
+    border: 40px dotted #235e11;
+
+}
+#boots{
+    border: 40px outset #fceee8;
+
+}
+
+#bootsDiv{
+    border: 40px outset #fceee8;
+
+}
+#bag{
+    border: 40px solid #54290d;
+
+}
+#purseDiv{
+    border: 40px solid #54290d;
+
+}
