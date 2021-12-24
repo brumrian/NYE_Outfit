@@ -57,7 +57,7 @@ dress.style.height = "728px";
 dress.style.width = "538px";
 dress.addEventListener("mouseover", handleDressEnter);
 let dressDiv = document.createElement("img");
-dressDiv.src = "NYE/dress.png";
+dressDiv.src = "/Users/rianbrumfield/brumrian.github.io/src/NYE/dress.png";
 dressDiv.style.height = "728px";
 dressDiv.style.width = "538px";
 dressDiv.id = "dressDiv";
